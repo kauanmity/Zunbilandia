@@ -3222,7 +3222,6 @@ a:hover {
     cursor: pointer;
     border: none
 }
-
 .slider::-moz-range-track {
     height: 4px;
     border-radius: 2px;
